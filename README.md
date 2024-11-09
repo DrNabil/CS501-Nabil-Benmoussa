@@ -1,4 +1,7 @@
 # 501: Deep Learning Complete Course
 ## Computer Science-501: Deep Learning Complete Course
-# Instructor
+This course will cover many topics related to deep earning
+# Author
 Nabil Benmoussa
+# Repository Structure
+The repository provides an in-depth understanding of Deep Learning using Python.
