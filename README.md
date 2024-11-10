@@ -2,7 +2,7 @@
 ## Computer Science-501: Deep Learning Complete Course
 This course will cover many topics related to deep earning
 # Author
-##Nabil Benmoussa
+## Nabil Benmoussa
 
 You can contact the author at: nabilbenmoussa19@gmil.com
 
