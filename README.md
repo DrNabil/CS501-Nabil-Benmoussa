@@ -7,7 +7,7 @@ The repository provides an in-depth understanding of Deep Learning. It contains 
 You can contact the author at: nabilbenmoussa19@gmil.com
 
 # Repository  Structure
-CS501 is  a crash course that contains files that cover essential concepts of Deep Learning, including:
+CS501 is  a crash course that contains files covering essential concepts of Deep Learning, including:
 - Introduction to Python for Deep Learning
 - Neural Networks and Backpropagation
 - Convolutional Neural Networks (CNNs)
@@ -18,4 +18,4 @@ Thus, this course aims to help develop a strong foundation for implementing deep
 
 # important links
 
-To better master deep learning, you can visit: https://github.com/dr-saad-la/CS501-Deep-Learning-Complete-Course 
+To better master deep learning, you can visit https://github.com/dr-saad-la/CS501-Deep-Learning-Complete-Course 
