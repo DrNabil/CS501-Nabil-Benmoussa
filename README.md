@@ -18,4 +18,4 @@ Thus, this course aims to help develop a strong foundation for implementing deep
 
 # important links
 
-To better master deep learning, you can visit  Dr. Saad Laouadi's GitHub Repository 
+To better master deep learning, you can visit  # Dr. Saad Laouadi's GitHub Repository. 
