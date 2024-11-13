@@ -1,5 +1,5 @@
 # CS501: Deep Learning Complete Course
-## Computer Science-501: Deep Learning Complete Course
+## Computer Science: Deep Learning Complete Course
 The repository provides an in-depth understanding of Deep Learning. It contains lectures to deepen your understanding of Deep learning using Python, the language most used for deep learning applications.
 # Author
 ## Nabil Benmoussa
